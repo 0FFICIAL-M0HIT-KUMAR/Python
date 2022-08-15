@@ -1,0 +1,5 @@
+name = input("what is your name ?\n")
+length = len(name)
+print("Hello "+(name))
+print("words in ur name:")
+print(length)
